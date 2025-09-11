@@ -144,7 +144,7 @@ MIT (see `LICENSE`).
 
 ## 11) Citation
 
->  Nouri, Seyvan. “OPDC Capacity Triage — Reproducible Snapshot Analyses (R).” GitHub repository, 2025. URL: *your repo link here*.
+>  Nouri, Seyvan. “OPDC Capacity Triage — Reproducible Snapshot Analyses (R).” SeyvanGit, 2025. URL: *https://github.com/SeyvanGit/Oregon-Public-Defense-Capacity-Analysis*.
 
 ---
 
