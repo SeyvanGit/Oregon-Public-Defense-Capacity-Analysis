@@ -5,6 +5,13 @@ A lightweight, fully reproducible analysis of Oregon public defense capacity usi
 _Last updated: September 11, 2025_
 
 ---
+
+## 📚 Cite
+
+If you use this repository, code, or figures in your own work, please cite as follows:
+
+> Nouri, S. (2025).“OPDC Capacity Triage — Reproducible Snapshot Analyses (R)". GitHub repository. Retrieved from URL:https://github.com/SeyvanGit/Oregon-Public-Defense-Capacity-Analysis*. DOI: 10.5281/zenodo.17117977.
+---
 ## 1) What this does (overview)
 
 From a single Excel export (`opdc_caseload_summary_full.xlsx`, sheet “Data”), the script computes:
@@ -143,7 +150,6 @@ MIT (see `LICENSE`).
 
 ## 11) Citation
 
->  Nouri, Seyvan. “OPDC Capacity Triage — Reproducible Snapshot Analyses (R).” SeyvanGit, 2025. URL: *https://github.com/SeyvanGit/Oregon-Public-Defense-Capacity-Analysis*. DOI: 10.5281/zenodo.17117977.
 >  **Interactive Data**: https://app.powerbigov.us/view?r=eyJrIjoiZDY5MzNiNDAtNDI0NS00NDg1LTk5OTgtYjRiZGVmZmVlNWNlIiwidCI6IjliM2ExODIyLWM2ZTAtNDdjNy1hMDg5LWZiOThkYTc4ODdiZSJ9&pageName=fb6fc95229f8beb31f5f
 
 ---
