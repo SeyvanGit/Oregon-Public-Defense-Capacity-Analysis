@@ -1,6 +1,6 @@
 # Oregon Public Defense Capacity Analysis (OPDC)- Capacity Triage — Reproducible Snapshot Analyses (R)
 
-A lightweight, fully reproducible analysis of Oregon public defense capacity using OPDC’s county-level caseload export. The project produces a ranked, transparent **Capacity Pressure Index**, plus two action-oriented views: **ΔMAC to reach 95%** and the **impact of adding one MAC**. Outputs include publication-ready figures and CSVs suitable for memos, dashboards, and a QGIS utilization map.
+A lightweight, fully reproducible analysis of Oregon public defense capacity using OPDC’s county-level caseload export. The project produces a ranked, transparent **Capacity Pressure Index**, plus two action-oriented views: **ΔMAC to reach 95%** and the **impact of adding one MAC**. Outputs include publication-ready figures and CSVs suitable for memos, and dashboards.
 
 _Last updated: September 11, 2025_
 
@@ -129,7 +129,7 @@ If some dashboard rows represent **county-groups** (e.g., *Baker–Union*, *Klam
 
 ---
 
-## 9) Data glossary (plain language)
+## 9) Data glossary
 
 - **MAC (Maximum Attorney Caseload):** capacity unit for one full-time attorney using OPDC weights.  
 - **Prorated MAC:** contracted capacity adjusted for FTE and partial-year timing; excludes supervision/specialty courts.  
